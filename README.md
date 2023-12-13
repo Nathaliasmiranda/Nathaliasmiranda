@@ -1,11 +1,10 @@
 
-## Olá, me chamo Nathalia
+## Olá, me chamo Nathalia!
 ## Sou Dev Junior
 ### Bem vindo ao meu perfil GitHub 👋
 
 - 🔭 Análise e desenvolvimento de sistemas - UMC 
 - 🔭 Ciência de dados - Univesp
-- 🤔 Aceito qualquer ajuda com os códigos, sou nova na área e estou aberta a aprender
 - 📫 Resido atualmente em SP/ZL
 
 ### Tech Stack
