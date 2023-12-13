@@ -3,11 +3,11 @@
 ## Sou Dev Junior
 ### Bem vindo ao meu perfil do GitHub 👋
 
+- 📚 Ciência de dados - Univesp / Cursando 
 - 📚 Análise e desenvolvimento de sistemas - UMC / Cursando
-- 📚 Ciência de dados - Univesp / Cursando
 - 📫 Resido em São Paulo - SP
 - 💼 Atualmente trabalho como Team Líder - Concentrix Webhelp
-- 💻 Estou a procura de um emprego na area da programação
+- 💻 Pocuro um emprego na área da programação
 
 ### Tech Stack
 
