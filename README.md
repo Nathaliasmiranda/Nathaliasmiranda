@@ -28,12 +28,3 @@
 
 
 
-
-
-
-
-
-## Ensino
-
-<a href='https://www.umc.br'><img src="https://cdn.discordapp.com/attachments/766448259492478985/1149472415437553714/8DELIBVjGh75QAAAAASUVORK5CYII.png" width="40px"></a>
-<a href='https://www.univesp.br'><img src="https://upload.wikimedia.org/wikipedia/pt/6/6f/Logo_univesp.png" width="40px"></a>
