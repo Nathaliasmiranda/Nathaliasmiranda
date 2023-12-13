@@ -18,7 +18,7 @@
 
 
 <div>
-<a href = "mailto:nathaliasmiranda@outlook.com.br"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href = "mailto:nathaliasmiranda@outlook.com.br"><img src="https://download.logo.wine/logo/Microsoft_Outlook/Microsoft_Outlook-Logo.wine.png" target="_blank"></a>
 <a href="https://www.linkedin.com/in/nathalia-miranda-b81163208/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
@@ -37,4 +37,4 @@
 ## Ensino
 
 <a href='https://www.umc.br'><img src="https://cdn.discordapp.com/attachments/766448259492478985/1149472415437553714/8DELIBVjGh75QAAAAASUVORK5CYII.png" width="40px"></a>
-tab=skills'><img src='https://cdn.discordapp.com/attachments/766448259492478985/1149473339501445180/LOGO-DIO-COLOR.png' width='55px' heigth='55px'></a>
+<a href='https://www.univesp.br'><img src="https://upload.wikimedia.org/wikipedia/pt/6/6f/Logo_univesp.png" width="40px"></a>
