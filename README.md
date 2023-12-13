@@ -18,7 +18,9 @@
 
 
 <div>
-<a href = "mailto:nathaliasmiranda@outlook.com.br"><img src="https://img.shields.io/badge/-Outlook-%230077B5?style=for-the-badge&logo=microsoftoutlook&logoColor=white" target="_blank" alt='BootStrap' width='40' height='40'/>></a>
+<a href = "mailto:nathaliasmiranda@outlook.com.br"><img src="https://img.shields.io/badge/-Outlook-%230077B5?style=for-the-badge&logo=microsoftoutlook&logoColor=white" target="_blank"></a>
+
+ 
 <a href="https://www.linkedin.com/in/nathalia-miranda-b81163208/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
