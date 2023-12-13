@@ -1,11 +1,13 @@
 
 ## Olá, me chamo Nathalia!
 ## Sou Dev Junior
-### Bem vindo ao meu perfil GitHub 👋
+### Bem vindo ao meu perfil do GitHub 👋
 
-- 🔭 Análise e desenvolvimento de sistemas - UMC 
-- 🔭 Ciência de dados - Univesp
-- 📫 Resido atualmente em SP/ZL
+- 📚 Análise e desenvolvimento de sistemas - UMC / Cursando
+- 📚 Ciência de dados - Univesp / Cursando
+- 📫 Resido em São Paulo - SP
+- 💼 Atualmente trabalho como Team Líder - Concentrix Webhelp
+- 💻 Estou a procura de um emprego na area da programação
 
 ### Tech Stack
 
