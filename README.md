@@ -4,9 +4,9 @@
 ### Bem vindo ao meu perfil do GitHub 👋
 
 - 📚 Ciência de dados - Univesp / Cursando 
-- 📚 Análise e desenvolvimento de sistemas - UMC / Cursando
-- 📫 Resido em São Paulo - SP
-- 💼 Atualmente trabalho como Team Líder - Concentrix Webhelp
+- 📚 Análise e desenvolvimento de sistemas - UMC / Tecnólogo finalizado
+- 📫 Resido em Mogi das Cruzes - SP
+- 💼 Atualmente trabalho como Team Leader - Concentrix Webhelp
 - 💻 Pocuro um emprego na área da programação
 
 ### Tech Stack
